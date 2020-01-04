@@ -1,0 +1,8 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    #rounded division
+    print(a//b)
+    #floated division
+    print(a/b)
+
